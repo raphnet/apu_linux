@@ -1,0 +1,4 @@
+*.o
+CVS
+*.msk
+*.log
